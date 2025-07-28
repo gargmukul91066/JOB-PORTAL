@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Job Portal 🌐
 
 A **Job Portal** built with the **MERN stack (MongoDB, Express, React, Node.js)**.  
@@ -68,4 +67,4 @@ It allows **job seekers** to find and apply for jobs, and **employers** to post 
 - **Deployment:** Vercel (Frontend & Backend)
 
 ---
->>>>>>> 2fdef01 (Initial commit)
+
